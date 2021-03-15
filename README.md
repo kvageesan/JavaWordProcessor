@@ -19,7 +19,7 @@ There are two ways you can execute this file in your machine.
       - Note in mac text files don't have .txt extension
   - The program then searches for words with maximum length and print it. It also prints a transpose of that word
   - If there are words of same lenght, program retruns the first found word.
-  - There are few limitations and I have mentioned some of them in Future Improvements section. Please take a look at them.
+  - There are few limitations and I have mentioned some of them in Future Improvements section. Please take a look at them. I have also mentioned about out of scope items in Test cases excel file.
 
 
 ## Install or update java version
@@ -33,3 +33,4 @@ There are two ways you can execute this file in your machine.
 - Add support for validation on document encryption
 - Add support for password protected files
 - More exception handling and retry
+- Check program performance under unexpected condition like memory leaks and resource utilization.
