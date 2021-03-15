@@ -32,5 +32,6 @@ There are two ways you can execute this file in your machine.
 - Add support for PDF
 - Add support for validation on document encryption
 - Add support for password protected files
+- Improve support for other languages. With the current version, program works but can't understand spaces. Please check test cases to understand more.
 - More exception handling and retry
 - Check program performance under unexpected condition like memory leaks and resource utilization.
