@@ -1,8 +1,7 @@
 # JavaWordProcessor
 Word processor reads a file content from .doc, .docx and text file. It returns the largest word and it's transpose from the file.
 
-To keep simplicity for the project and the time, I haven't added much of the functionalities.
-Trying to list down some improvements that I will do on the existing project in future:
+To keep implimentation simple and to stick to scope, I haven added all the basic functionalities. There are some improvements or additional capabilities that i would like to enable with this tool. However with time constraint, i have added them in future scope. Please go throught the future improvements section below.
 
 ## Execution setup instruction
 
